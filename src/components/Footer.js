@@ -46,8 +46,8 @@ const Footer = () => {
           <div className="footer-section">
             <h4>Follow us</h4>
             <div className="social-links">
-              <a href="#" aria-label="Facebook">Facebook</a>
-              <a href="#" aria-label="Instagram">Instagram</a>
+              <a href="https://facebook.com" target="_blank" rel="noopener noreferrer" aria-label="Facebook">Facebook</a>
+              <a href="https://instagram.com" target="_blank" rel="noopener noreferrer" aria-label="Instagram">Instagram</a>
             </div>
           </div>
         </div>
@@ -55,9 +55,9 @@ const Footer = () => {
         <div className="footer-bottom">
           <p>Copyright 2024 © BBA Facility Services GmbH</p>
           <div className="footer-links">
-            <a href="#">Datenschutzerklärung</a>
+            <a href="/datenschutz">Datenschutzerklärung</a>
             <span>|</span>
-            <a href="#">Impressum</a>
+            <a href="/impressum">Impressum</a>
           </div>
         </div>
       </div>
