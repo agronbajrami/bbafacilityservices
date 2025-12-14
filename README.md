@@ -19,6 +19,7 @@ A modern React website for BBA Facility Services - Professional facility managem
 - Mobile-friendly layout
 - Beautiful gradient hero section
 - Service cards with hover effects
+- Professional logo with building icon
 
 ## Getting Started
 
@@ -63,7 +64,8 @@ bbafacilities/
 │   │   ├── Benefits.js
 │   │   ├── About.js
 │   │   ├── Contact.js
-│   │   └── Footer.js
+│   │   ├── Footer.js
+│   │   └── Logo.js
 │   ├── App.js
 │   ├── App.css
 │   ├── index.js
@@ -81,4 +83,3 @@ bbafacilities/
 ## License
 
 Copyright 2024 © BBA Facility Services GmbH
-
